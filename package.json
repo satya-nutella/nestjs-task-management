@@ -1,7 +1,7 @@
 {
   "name": "nestjs-task-management",
   "version": "0.0.1",
-  "description": "",
+  "description": "A task management application in Nest.js",
   "author": "meehawk",
   "private": true,
   "license": "UNLICENSED",
